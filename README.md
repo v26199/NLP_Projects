@@ -15,7 +15,7 @@ Welcome to my collection of Natural Language Processing (NLP) projects! This rep
 ## Introduction
 In this repository, you'll find a range of NLP projects that I've worked on, each focusing on different aspects of natural language understanding and processing. From sentiment analysis to text summarization and beyond, these projects reflect my ability to apply advanced NLP techniques to solve real-world problems.
 
-## Description (optional)
+## Description
 This repository is a showcase of my journey and growth in the field of NLP. It includes a variety of projects, each designed to solve a specific problem or explore a particular technique. Whether you are a fellow data scientist, a potential employer, or just someone interested in NLP, I hope you find these projects informative and inspiring.
 
 ## Projects
