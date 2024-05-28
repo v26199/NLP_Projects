@@ -10,7 +10,7 @@ Welcome to my collection of Natural Language Processing (NLP) projects! This rep
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [License](#license)
+
 
 ## Introduction
 In this repository, you'll find a range of NLP projects that I've worked on, each focusing on different aspects of natural language understanding and processing. From sentiment analysis to text summarization and beyond, these projects reflect my ability to apply advanced NLP techniques to solve real-world problems.
