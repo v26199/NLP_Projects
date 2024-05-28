@@ -16,7 +16,7 @@ The dataset used in this project is a collection of tweets gathered over three w
 - [Comparing Sentiment Analysis Libraries](#comparing-sentiment-analysis-libraries)
 - [Actionable Insights from Sentiment Analysis of Tweets](#actionable-insights-from-sentiment-analysis-of-tweets)
 - [Setup](#setup)
-- [License](#license)
+
 
 ## Exploratory Data Analysis
 First, we conduct exploratory data analysis (EDA) to understand basic metrics such as the number of tweets and the date range covered by the dataset.
@@ -48,18 +48,12 @@ Given the context of a political campaign, we derive actionable insights from th
 ## Setup
 To set up the environment and run the analysis, follow these steps:
 
-1. **Clone the repository**
-    ```bash
-    git clone https://github.com/yourusername/twitter-sentiment-analysis.git
-    cd twitter-sentiment-analysis
-    ```
-
-2. **Install dependencies**
+1. **Install dependencies**
     ```bash
     pip install -r requirements.txt
     ```
 
-3. **Download NLTK data**
+2. **Download NLTK data**
     ```python
     import nltk
     nltk.download('vader_lexicon')
