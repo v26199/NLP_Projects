@@ -1,0 +1,8 @@
+pandas
+matplotlib
+nltk
+textblob
+vaderSentiment
+flair
+tqdm
+segtok
