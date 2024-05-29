@@ -58,7 +58,7 @@ This repository is a showcase of my journey and growth in the field of NLP. It i
 - **Libraries and Frameworks:** NLTK, Spacy, Scikit-learn, TensorFlow, Keras, Gensim, Hugging Face Transformers.
 
 ```bash
-git clone https://github.com/your-username/nlp_projects.git
+https://github.com/v26199/NLP_Projects.git
 cd nlp_projects
 ```
 
