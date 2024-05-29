@@ -41,7 +41,7 @@ This repository is a showcase of my journey and growth in the field of NLP. It i
 
 ### 5. Text Summarization
 - **Description:** Automatically generating concise summaries of long texts.
-- **Techniques:** Extractive and abstractive summarization, BERT, GPT.
+- **Techniques:** Extractive(using spicy) and abstractive summarization(using open source model from huggingface)
 - **Results:** Effective summaries that retain key information.
 
 ### 6. Machine Translation (RAG Based Chatbot)
